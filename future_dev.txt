@@ -1,0 +1,6 @@
+Estudando desenvolvimento web, aqui constam exercícios realizados durante o curso.
+- Unix
+- Bash]
+- Git
+- Html
+-Css
